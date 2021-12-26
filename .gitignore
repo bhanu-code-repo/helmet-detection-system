@@ -1,0 +1,6 @@
+# pycharm related
+.idea
+app_utils/__pycache__/
+object_detection/images/
+object_detection/protos/__pycache__/
+object_detection/utils/__pycache__/
